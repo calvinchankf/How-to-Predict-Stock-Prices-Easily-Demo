@@ -4,7 +4,7 @@ How to Predict Stock Prices Easily - Intro to Deep Learning #7 by Siraj Raval on
 ---
 
 ## About this fork
-I found original repo was kinda tough to get started, therefore I have included some necessary setups for kickstarting
+I found the original repo was kinda tough to get started, therefore I have included some necessary setups for kickstarting
 
 #### Whats New
 - migrated the code version from python2 to python3
@@ -18,7 +18,7 @@ source .env/bin/activate
 pip install -r requirements.txt
 jupyter notebook
 ```
-To avoid install dependencies globally on my machine, installing them in a virtual environment would be a good choice (or use docker), so the above commands simply:
+To avoid installing dependencies globally on my machine, installing them in a virtual environment would be a good choice (or use docker), so the above commands simply:
 
 - create virtual environment and put it in `.env/` folder
 - activate the virtual environment
